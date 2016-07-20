@@ -1,0 +1,5 @@
+flask==0.10.1
+celery==3.1.23
+pymongo==3.2.2
+requests==2.7.0
+python-nmap==0.6.0
